@@ -1,9 +1,0 @@
-
-public class MethodQ3P204 {
-
-	public static void main(String[] args) {
-		System.out.println("서다솜 바보");
-
-	}
-
-}

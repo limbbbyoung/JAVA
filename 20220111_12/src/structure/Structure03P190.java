@@ -2,26 +2,27 @@ package structure;
 
 public class Structure03P190 {
 	
-	// getInfo는 고양이에 대한 정보를 얻어와 화면에 출력합니다.
 	public static void getInfo(Cat c) {
-		System.out.println("이름 : " + c.name +
-							", 털색깔 : " + c.color + 
-							", 몸무게 : " + c.weight);
+		System.out.println(c.name + "의 정보입니다.");
+		System.out.println("이름 : " + c.name + ", 나이 : "
+				+ c.age + ", 성별 : " + c.gender);
 	}
 
 	public static void main(String[] args) {
-		// 고양이 2마리 생성
+		// 고양이 두마리를 생성해줍니다.
 		Cat c1 = new Cat();
-		c1.name = "룰루";
-		c1.color = "쿠앤크";
-		c1.weight = 3;
-		
-		Cat c2 = new Cat();
-		c2.name = "어묵이";
-		c2.color = "치즈";
-		c2.weight = 1;
+		c1.name = "방울이";
+		c1.age = 3;
+		c1.gender = "암컷";
 		getInfo(c1);
-		getInfo(c2);
-		Person p1  =  new Person();
+		
+		System.out.println("--------------------------------------");
+		Cat c2 = new Cat();
+		c2.name = "야옹이";
+		c2.age = 2;
+		c2.gender = "수컷";
+        getInfo(c2);
+        
 	}
+
 }
