@@ -30,7 +30,7 @@ public class EnhancedForQ1P162 {
 		System.out.println("영어 평균 : " + engTotal / eng.length);
 		System.out.println("컴퓨터 평균 : " + comTotal / com.length);
 		
-		// 본 문제를 받았을 때 풀지 못한 이유는 복합대입연산자에 대한 이해도가 부족했기 때문
+		// 본 문제를 받았을 때 풀지 못한 이유는 복합 대입 연산자에 대한 이해도가 부족했기 때문
 		
 		
 
