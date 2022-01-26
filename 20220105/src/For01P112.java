@@ -10,7 +10,7 @@ public class For01P112 {
 		//     실행문2...
 		// } 
 		// 으로 이루어져 있습니다.
-		for(int i = 0; i < 0; i++) {
+		for(int i = 0; i < 2; i++) {
 			 System.out.println("for문을 이용한 반복문");
 		}
 
