@@ -1,8 +1,0 @@
-package interaction;
-
-public class Buyer {
-	// 구매자는 money(소지금), mango(소지망고개수)를 맴버변수로 가집니다.
-	private int money;
-	private int Mango;
-
-}

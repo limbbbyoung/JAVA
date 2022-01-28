@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class TryCatch01P353 {
 
 	public static void main(String[] args) {
-		// try~catch 구문은 크게 예ㅚ가 발생할 가능성이 있는 구문을 적어두는 
+		// try~catch 구문은 크게 예외가 발생할 가능성이 있는 구문을 적어두는 
 		// try 블럭과, 예외가 실제로 발생했을때 대처할 코드를 실행하는 
 		// catch 블럭으로 나뉩니다.
 		
