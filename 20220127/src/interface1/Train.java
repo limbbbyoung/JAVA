@@ -1,4 +1,4 @@
-package interface1;
+  package interface1;
 
 // Vehicle을 구현하기 위해 implements를 활용합니다.
 public class Train implements Vehicle {

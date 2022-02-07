@@ -41,7 +41,7 @@ public class String03P399 {
 				// 마지막 발견지점 갱신
 				fidx = get;
 				count++;// 글씨 카운트 증가
-				System.out.println(get + "번 인덱스에서 "+ count +"번째" + searchVoca + 
+				System.out.println(get + "번 인덱스에서 "+ count +"번째 " + searchVoca + 
 						"이(가) 검출되었습니다.");
 			}
 		}

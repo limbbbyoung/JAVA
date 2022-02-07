@@ -27,7 +27,7 @@ public class Airplane {
 		if(this.speed - 100 < 0) { 
 			this.speed  = 0;
 		} else {
-			this.speed  -= 100;
+			this.speed -= 100;
 		}
 		System.out.println("감속결과 " + speed + "km/h로 비행중.");
 	}
