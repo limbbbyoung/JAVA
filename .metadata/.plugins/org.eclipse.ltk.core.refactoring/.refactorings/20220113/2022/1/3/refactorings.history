@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;constructor.Main01P203&apos; to &apos;Main01P204&apos;&#x0D;&#x0A;- Original project: &apos;20220113&apos;&#x0D;&#x0A;- Original element: &apos;constructor.Main01P203&apos;&#x0D;&#x0A;- Renamed element: &apos;constructor.Main01P204&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Main01P203&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;constructor{Main01P203.java[Main01P203" matchStrategy="1" name="Main01P204" qualified="false" references="true" similarDeclarations="false" stamp="1642067144943" textual="false" version="1.0"/>
-</session>
